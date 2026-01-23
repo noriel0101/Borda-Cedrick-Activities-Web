@@ -1,5 +1,5 @@
 {
-  "name": "to-do-list",
+  "name": "compute",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "description": ""
 }
